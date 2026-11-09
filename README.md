@@ -34,6 +34,4 @@ GUI: customtkinter, Pillow
 
 🚀 Быстрый старт
 Требования
-Python 3.10 или новее
-
 Установленная Java 17 или Java 21
